@@ -1,0 +1,15 @@
+WindowsStandalone
+PlayerPath?
+C:/Users/Huskarino/Documents/Unity Project/Fast and Low Modbox/Temp/Prototype Level/Windows/prototype level.scenes
+SceneListBegin?
+Assets/Prototype Level-PrototypeScene.unity
+SceneListEnd?
+eb1b98eae58d1c3cddd6ef4553520642 UnityEngine.UI.dll:UnityEngine.EventSystems.EventSystem
+a4ef7c59ab7201ab109de36901ceb49b UnityEngine.UI.dll:UnityEngine.EventSystems.StandaloneInputModule
+1ccfbe790b3e3f82c9f068ee4c70d6ed PrototypeLevel-Assembly-CSharp.dll:.CoverpointDefinition
+d6b4488106ef5931501d88458cdacf23 PrototypeLevel-Assembly-CSharp.dll:.CustomDoorDefinition
+c4f02cbe069f14a40abf89aacc5b4243 PrototypeLevel-Assembly-CSharp.dll:.DestroyableItemDefinition
+1e245d4cc2b5a48007f21e747f23c0e2 PrototypeLevel-Assembly-CSharp.dll:.GameManagerDefinition
+25dd533324f1a835ff3340c4d1861a9c PrototypeLevel-Assembly-CSharp.dll:.PresetCivilianDefinition
+8790fe50a22624ef82c7b6ed23c0d5ab PrototypeLevel-Assembly-CSharp.dll:.PresetDoorDefinition
+21711890f4df705afee2282c11110598 PrototypeLevel-Assembly-CSharp.dll:.PresetEnemyDefinition
