@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: -1672532349, guid: ea3df2c1fc806954da2f04daa808034d, type: 3}
   m_Name: ExportSettings
   m_EditorClassIdentifier: 
-  _name: Prototype Level
-  _author: Husky
+  _name: Cust23
+  _author: asd
   _description: 
   _version: 
   _platforms: 7

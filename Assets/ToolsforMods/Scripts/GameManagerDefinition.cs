@@ -7,10 +7,11 @@ public class GameManagerDefinition : ModBehaviour {
 
 	public GameObject[] spawnPoints;
 
-	//if empty, default custom music will be used
+	[Tooltip("Idle Music. Default music will be used if left empty")]
 	public AudioClip customIdleMusicLoop;
-	//action music will be played when combat is initiated
+	[Tooltip("Will the Action Music be used during conflicts?")]
 	public bool useActionMusic;
+	[Tooltip("Action Music played during Combat. Default music will be used if left empty")]
 	public AudioClip customActionMusicLoop;
 
 	public int enemyCount = 5;

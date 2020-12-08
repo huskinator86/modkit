@@ -15,6 +15,13 @@ public class DestructableBridgetoMain : ModBehaviour {
 
 	DestroyableItemBridge destructableBridge;
 
+	public bool isExplosive=false;
+	public float explosionDamage;
+	public float explosionForce;
+	public GameObject explosionGibGO;
+	public float explosionRange;
+
+
 	// Use this for initialization
 	public void passthroughdestructableData () {
 		destructableBridge = this.gameObject.AddComponent<DestroyableItemBridge> ();
@@ -22,6 +29,14 @@ public class DestructableBridgetoMain : ModBehaviour {
 		destructableBridge.alertsenemyonDeath = alertsEnemyonDeath;
 		destructableBridge.gibReference = destroyedgibPrefab;		
 		destructableBridge.customMesh = mesh;
+
+		if (isExplosive) {
+			destructableBridge.isExplosive = true;
+			destructableBridge.explosionDamage = explosionDamage;
+			destructableBridge.explosionForce = explosionForce;
+			destructableBridge.explosionGibGO = explosionGibGO;
+			destructableBridge.explosionRange = explosionRange;
+		}
 
 		destructableBridge.rundestructablecreationMethod ();
 

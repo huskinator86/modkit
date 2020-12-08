@@ -100,6 +100,9 @@ ModelImporter:
     100188: WallTrim_Brown
     100190: WallTrim_DarkBlue
     100192: WallTrim_Grey
+    100194: Stairs_004
+    100196: Stairs_Half
+    100198: Stairs_Split
     400000: //RootNode
     400002: CeilingLight_Halogen
     400004: CeilingLight_Lamp
@@ -197,6 +200,9 @@ ModelImporter:
     400188: WallTrim_Brown
     400190: WallTrim_DarkBlue
     400192: WallTrim_Grey
+    400194: Stairs_004
+    400196: Stairs_Half
+    400198: Stairs_Split
     2100000: uvMap
     2100002: OpaqueGlass
     2100004: NonOpaqueGlass
@@ -297,6 +303,9 @@ ModelImporter:
     2300186: WallTrim_Brown
     2300188: WallTrim_DarkBlue
     2300190: WallTrim_Grey
+    2300192: Stairs_004
+    2300194: Stairs_Half
+    2300196: Stairs_Split
     3300000: CeilingLight_Halogen
     3300002: CeilingLight_Lamp
     3300004: CeilingLight_PortLight
@@ -393,6 +402,9 @@ ModelImporter:
     3300186: WallTrim_Brown
     3300188: WallTrim_DarkBlue
     3300190: WallTrim_Grey
+    3300192: Stairs_004
+    3300194: Stairs_Half
+    3300196: Stairs_Split
     4300000: Walls_ConcreteGrey_Door
     4300002: Walls_ConcreteGrey_BigOpening
     4300004: Walls_ConcreteGrey_Window
@@ -489,6 +501,9 @@ ModelImporter:
     4300186: WallTrim_DarkBlue
     4300188: WallTrim_Brown
     4300190: WallTrim_Beige
+    4300192: Stairs_Split
+    4300194: Stairs_Half
+    4300196: Stairs_004
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}

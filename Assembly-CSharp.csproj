@@ -53,14 +53,22 @@
   <ItemGroup>
      <Compile Include="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\CivModBridgeMain.cs" />
      <Compile Include="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\CPBridgetoMain.cs" />
+     <Compile Include="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\CustomCivilianBridgetoMain.cs" />
      <Compile Include="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\CustomDoorBridgetoMain.cs" />
+     <Compile Include="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\CustomEnemyBridgetoMain.cs" />
      <Compile Include="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\DestructableBridgetoMain.cs" />
      <Compile Include="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\EnemyModBridgeMain.cs" />
      <Compile Include="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\GMModBridge.cs" />
      <Compile Include="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\PresetDoorBridgetoMain.cs" />
      <Compile Include="Assets\ToolsforMods\Scripts\CoverpointDefinition.cs" />
+     <Compile Include="Assets\ToolsforMods\Scripts\CustomAIdefinition.cs" />
+     <Compile Include="Assets\ToolsforMods\Scripts\CustomAIHealthandGibs.cs" />
+     <Compile Include="Assets\ToolsforMods\Scripts\CustomAIWeaponLdefinition.cs" />
+     <Compile Include="Assets\ToolsforMods\Scripts\CustomAIWeaponRdefinition.cs" />
+     <Compile Include="Assets\ToolsforMods\Scripts\CustomCiviliandefinition.cs" />
      <Compile Include="Assets\ToolsforMods\Scripts\CustomDoorDefinition.cs" />
      <Compile Include="Assets\ToolsforMods\Scripts\DestroyableItemDefinition.cs" />
+     <Compile Include="Assets\ToolsforMods\Scripts\ExplosiveItemDefinition.cs" />
      <Compile Include="Assets\ToolsforMods\Scripts\GameManagerDefinition.cs" />
      <Compile Include="Assets\ToolsforMods\Scripts\MissionInfoDefinition.cs" />
      <Compile Include="Assets\ToolsforMods\Scripts\PresetCivilianDefinition.cs" />

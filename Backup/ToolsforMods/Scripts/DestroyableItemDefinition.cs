@@ -11,10 +11,20 @@ public class DestroyableItemDefinition : ModBehaviour {
 
 	public GameObject destroyedgibPrefab;
 
+	ExplosiveItemDefinition explosiveItem;
 
 	// Use this for initialization
 	void Awake () {
 		DestructableBridgetoMain destructableBridge = this.gameObject.AddComponent<DestructableBridgetoMain> ();
+
+		explosiveItem = this.GetComponent<ExplosiveItemDefinition> ();
+		if (explosiveItem != null) {
+			destructableBridge.isExplosive = true;	
+			destructableBridge.explosionDamage = explosiveItem.explosionDamage;
+			destructableBridge.explosionForce = explosiveItem.explosionForce;
+			destructableBridge.explosionGibGO = explosiveItem.explosionFX;
+			destructableBridge.explosionRange = explosiveItem.explosionRange;
+		}
 
 		destructableBridge.mesh = this.gameObject.GetComponent<MeshFilter> ().mesh;
 		destructableBridge.itemHp = itemHp;

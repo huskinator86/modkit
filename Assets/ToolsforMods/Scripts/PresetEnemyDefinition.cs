@@ -6,15 +6,19 @@ using ModTool.Interface;
 
 public class PresetEnemyDefinition : ModBehaviour {
 
-	//Is this enemy a Patroller. Or Will he stand around in his postion
+	[Tooltip("Is this enemy a Patroller. Or Will he stand around in his postion")]
 	public bool patroller = false;
-	//Set at 1 - Enemy will along Waypoint1 tagged items. Set at 2 - Enemy will travel along Waypoint2 tagged items. Etc...
+
+	[Tooltip("Set at 1 - Enemy will travel along Waypoint1 tagged items. Set at 2 - Enemy will travel along Waypoint2 tagged items. Etc...")]
 	public int patrolPath=1;
-	//Does this enemy hold a shotgun? Does not apply for TecDragons or Fake Civilian Archetypes
+
+	[Tooltip("Does this enemy hold a shotgun? Does not apply for TecDragons or Fake Civilian Archetypes")]
 	public bool shotgunner = false;
-	//Does this enemy have an idle sitting position?
+
+	[Tooltip("Does this enemy spawn in a Sitting Pose")]
 	public bool sitting = false;
-	//Only applies to SuicideBombers. Sets whether they will do a countdown or charge the player
+
+	[Tooltip("Only applies to SuicideBombers. Sets whether they will do a countdown or charge the player")]
 	public bool suicideCharge=false;
 
 
