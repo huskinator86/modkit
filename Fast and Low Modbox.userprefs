@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ToolsforMods\Scripts\CustomWeaponDefinition.cs">
+    <Files>
+      <File FileName="Assets\ToolsforMods\Scripts\CustomDoorDefinition.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\CustomDoorBridgetoMain.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\MissionInfoDefinition.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\PresetEnemyDefinition.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\PresetDoorDefinition.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\PresetDoorBridgetoMain.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\CustomAIdefinition.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\CustomEnemyBridgetoMain.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\CustomAIHealthandGibs.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\CustomAIWeaponLdefinition.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\CustomAIWeaponRdefinition.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\DestructableBridgetoMain.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\DestroyableItemDefinition.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\ExplosiveItemDefinition.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\CustomCiviliandefinition.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\CustomCivilianBridgetoMain.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\CivModBridgeMain.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\CustomWeaponDefinition.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\CustomPumpShotgunDefinition.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\CustomBreakActionShotgunDefinition.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\CustomWeaponBridgetoMain.cs" Line="178" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

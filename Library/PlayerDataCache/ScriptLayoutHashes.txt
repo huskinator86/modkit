@@ -1,0 +1,21 @@
+WindowsStandalone
+PlayerPath?
+C:/Users/Huskarino/Documents/Unity Project/Fast and Low Modbox/Temp/Cust23/Windows/cust23.scenes
+SceneListBegin?
+Assets/Cust23-PrototypeScene.unity
+SceneListEnd?
+eb1b98eae58d1c3cddd6ef4553520642 UnityEngine.UI.dll:UnityEngine.EventSystems.EventSystem
+a4ef7c59ab7201ab109de36901ceb49b UnityEngine.UI.dll:UnityEngine.EventSystems.StandaloneInputModule
+1ccfbe790b3e3f82c9f068ee4c70d6ed Cust23-Assembly-CSharp.dll:.CoverpointDefinition
+e156bd98c347c77c6a03d401806f4695 Cust23-Assembly-CSharp.dll:.CustomAIdefinition
+799fa5b26ca32125862328aa1ad8248f Cust23-Assembly-CSharp.dll:.CustomAIHealthandGibs
+460621ee790dde2895d651e3293c16eb Cust23-Assembly-CSharp.dll:.CustomAIWeaponLdefinition
+d249a07e140c92fabad93ce489d75713 Cust23-Assembly-CSharp.dll:.CustomAIWeaponRdefinition
+6e6197998d2be15acc20442588207802 Cust23-Assembly-CSharp.dll:.CustomCiviliandefinition
+d6b4488106ef5931501d88458cdacf23 Cust23-Assembly-CSharp.dll:.CustomDoorDefinition
+c4f02cbe069f14a40abf89aacc5b4243 Cust23-Assembly-CSharp.dll:.DestroyableItemDefinition
+ba4649e4a09f9027b22aae745235054f Cust23-Assembly-CSharp.dll:.ExplosiveItemDefinition
+1e245d4cc2b5a48007f21e747f23c0e2 Cust23-Assembly-CSharp.dll:.GameManagerDefinition
+25dd533324f1a835ff3340c4d1861a9c Cust23-Assembly-CSharp.dll:.PresetCivilianDefinition
+8790fe50a22624ef82c7b6ed23c0d5ab Cust23-Assembly-CSharp.dll:.PresetDoorDefinition
+21711890f4df705afee2282c11110598 Cust23-Assembly-CSharp.dll:.PresetEnemyDefinition

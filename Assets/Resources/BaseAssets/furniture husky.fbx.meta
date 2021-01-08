@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 8605713147f2454428c1f9474344984f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Credenza
+    100002: DiningChair
+    100004: Dresser
+    100006: FancyTable.006
+    100008: FilingCabinet
+    100010: Foldable.Chair
+    100012: Foldable.Table
+    100014: //RootNode
+    100016: GarageShelf.009
+    100018: GrassPlant1
+    100020: GrassPlant2
+    100022: House.Curtains
+    100024: Kitchen.Island
+    100026: Lamp
+    100028: Lamp1
+    100030: Office.Box
+    100032: SideTable
+    100034: SideTable2
+    100036: Stool.004
+    100038: WorkoutMachine.BarBell
+    100040: WorkoutMachine.Bench
+    100042: WorkoutMachine.InclineBench
+    100044: WorkoutMachine.PBag
+    100046: WorkoutMachine.SquatRack
+    400000: Credenza
+    400002: DiningChair
+    400004: Dresser
+    400006: FancyTable.006
+    400008: FilingCabinet
+    400010: Foldable.Chair
+    400012: Foldable.Table
+    400014: //RootNode
+    400016: GarageShelf.009
+    400018: GrassPlant1
+    400020: GrassPlant2
+    400022: House.Curtains
+    400024: Kitchen.Island
+    400026: Lamp
+    400028: Lamp1
+    400030: Office.Box
+    400032: SideTable
+    400034: SideTable2
+    400036: Stool.004
+    400038: WorkoutMachine.BarBell
+    400040: WorkoutMachine.Bench
+    400042: WorkoutMachine.InclineBench
+    400044: WorkoutMachine.PBag
+    400046: WorkoutMachine.SquatRack
+    2100000: brown
+    2100002: carpetWhite
+    2100004: metalMedium
+    2100006: metalLight
+    2100008: metalDark
+    2100010: metal
+    2100012: grassGreen
+    2100014: light
+    2100016: wood
+    2100018: woodLight
+    2100020: Black
+    2100022: Red
+    2300000: Credenza
+    2300002: DiningChair
+    2300004: Dresser
+    2300006: FancyTable.006
+    2300008: FilingCabinet
+    2300010: Foldable.Chair
+    2300012: Foldable.Table
+    2300014: GarageShelf.009
+    2300016: GrassPlant1
+    2300018: GrassPlant2
+    2300020: House.Curtains
+    2300022: Kitchen.Island
+    2300024: Lamp
+    2300026: Lamp1
+    2300028: Office.Box
+    2300030: SideTable
+    2300032: SideTable2
+    2300034: Stool.004
+    2300036: WorkoutMachine.BarBell
+    2300038: WorkoutMachine.Bench
+    2300040: WorkoutMachine.InclineBench
+    2300042: WorkoutMachine.PBag
+    2300044: WorkoutMachine.SquatRack
+    3300000: Credenza
+    3300002: DiningChair
+    3300004: Dresser
+    3300006: FancyTable.006
+    3300008: FilingCabinet
+    3300010: Foldable.Chair
+    3300012: Foldable.Table
+    3300014: GarageShelf.009
+    3300016: GrassPlant1
+    3300018: GrassPlant2
+    3300020: House.Curtains
+    3300022: Kitchen.Island
+    3300024: Lamp
+    3300026: Lamp1
+    3300028: Office.Box
+    3300030: SideTable
+    3300032: SideTable2
+    3300034: Stool.004
+    3300036: WorkoutMachine.BarBell
+    3300038: WorkoutMachine.Bench
+    3300040: WorkoutMachine.InclineBench
+    3300042: WorkoutMachine.PBag
+    3300044: WorkoutMachine.SquatRack
+    4300000: Office.Box
+    4300002: Credenza
+    4300004: FilingCabinet
+    4300006: Foldable.Table
+    4300008: Foldable.Chair
+    4300010: GrassPlant1
+    4300012: Lamp
+    4300014: SideTable2
+    4300016: Lamp1
+    4300018: DiningChair
+    4300020: GrassPlant2
+    4300022: House.Curtains
+    4300024: Dresser
+    4300026: SideTable
+    4300028: FancyTable.006
+    4300030: Kitchen.Island
+    4300032: Stool.004
+    4300034: WorkoutMachine.InclineBench
+    4300036: WorkoutMachine.BarBell
+    4300038: WorkoutMachine.Bench
+    4300040: WorkoutMachine.SquatRack
+    4300042: WorkoutMachine.PBag
+    4300044: GarageShelf.009
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
