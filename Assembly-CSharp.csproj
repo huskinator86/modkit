@@ -247,25 +247,25 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2017.4.33f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="FnL_ModAssembly">
- <HintPath>C:/Users/Huskarino/Documents/Unity Project/Fast and Low Modbox/Assets/ModTool/FnL_ModAssembly.dll</HintPath>
+ <HintPath>C:/Users/Husky Super/Documents/unity/Fast and Low Modbox/Assets/ModTool/FnL_ModAssembly.dll</HintPath>
  </Reference>
  <Reference Include="ModTool.Interface">
- <HintPath>C:/Users/Huskarino/Documents/Unity Project/Fast and Low Modbox/Assets/ModTool/ModTool.Interface.dll</HintPath>
+ <HintPath>C:/Users/Husky Super/Documents/unity/Fast and Low Modbox/Assets/ModTool/ModTool.Interface.dll</HintPath>
  </Reference>
  <Reference Include="ModTool.Shared">
- <HintPath>C:/Users/Huskarino/Documents/Unity Project/Fast and Low Modbox/Assets/ModTool/ModTool.Shared.dll</HintPath>
+ <HintPath>C:/Users/Husky Super/Documents/unity/Fast and Low Modbox/Assets/ModTool/ModTool.Shared.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
- <HintPath>C:/Users/Huskarino/Documents/Unity Project/Fast and Low Modbox/Assets/ModTool/Mono.Cecil/Mono.Cecil.dll</HintPath>
+ <HintPath>C:/Users/Husky Super/Documents/unity/Fast and Low Modbox/Assets/ModTool/Mono.Cecil/Mono.Cecil.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Users/Huskarino/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.13/UnityEngine.Analytics.dll</HintPath>
+ <HintPath>C:/Users/Husky Super/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.13/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Purchasing">
- <HintPath>C:/Users/Huskarino/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.19/UnityEngine.Purchasing.dll</HintPath>
+ <HintPath>C:/Users/Husky Super/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.19/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
- <HintPath>C:/Users/Huskarino/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/Husky Super/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
