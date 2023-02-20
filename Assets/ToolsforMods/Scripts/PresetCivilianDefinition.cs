@@ -9,6 +9,9 @@ public class PresetCivilianDefinition : ModBehaviour {
 	//Is the Civilian Male? Unchecked = Female
 	public bool genderMale = false;
 
+	[Tooltip("Main Game will give priority to this spawnpoint")]
+	public bool prioritySpawn = false;
+
 	// Use this for initialization
 	void Awake () {
 		/*
@@ -20,6 +23,7 @@ public class PresetCivilianDefinition : ModBehaviour {
 		CivModBridgeMain civBridge = this.gameObject.AddComponent<CivModBridgeMain> ();
 
 		civBridge.maleCiv = genderMale;
+		civBridge.prioritySpawn = prioritySpawn;
 
 		this.GetComponent<MeshRenderer> ().enabled = false;		
 

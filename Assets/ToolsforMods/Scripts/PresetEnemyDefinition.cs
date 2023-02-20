@@ -21,6 +21,8 @@ public class PresetEnemyDefinition : ModBehaviour {
 	[Tooltip("Only applies to SuicideBombers. Sets whether they will do a countdown or charge the player")]
 	public bool suicideCharge=false;
 
+	[Tooltip("Main Game will give priority to this spawnpoint")]
+	public bool prioritySpawn = false;
 
 	public enum gang{mohawk,tecdragon,hustler,fakeCiv,suitedMen,maskedMohawk,suicideBomber}
 	public gang enemyArchetype;
@@ -43,6 +45,8 @@ public class PresetEnemyDefinition : ModBehaviour {
 		enemyBridge.sitting = sitting;
 		enemyBridge.suicideCharge = suicideCharge;
 		enemyBridge.patrolPath = patrolPath;
+
+		enemyBridge.prioritySpawn = prioritySpawn;
 
 		enemyBridge.enemyType = enemyArchetype.ToString ();
 

@@ -1,6 +1,6 @@
-﻿<Properties>
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ToolsforMods\Scripts\CustomWeaponDefinition.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ToolsforMods\Scripts\CoverpointDefinition.cs">
     <Files>
       <File FileName="Assets\ToolsforMods\Scripts\CustomDoorDefinition.cs" Line="1" Column="1" />
       <File FileName="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\CustomDoorBridgetoMain.cs" Line="1" Column="1" />
@@ -22,7 +22,8 @@
       <File FileName="Assets\ToolsforMods\Scripts\CustomWeaponDefinition.cs" Line="1" Column="1" />
       <File FileName="Assets\ToolsforMods\Scripts\CustomPumpShotgunDefinition.cs" Line="1" Column="1" />
       <File FileName="Assets\ToolsforMods\Scripts\CustomBreakActionShotgunDefinition.cs" Line="1" Column="1" />
-      <File FileName="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\CustomWeaponBridgetoMain.cs" Line="178" Column="59" />
+      <File FileName="Assets\ToolsforMods\Scripts\BridgeScriptstoMain\CustomWeaponBridgetoMain.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToolsforMods\Scripts\CoverpointDefinition.cs" Line="27" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

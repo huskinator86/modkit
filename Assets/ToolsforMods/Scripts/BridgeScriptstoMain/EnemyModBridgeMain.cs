@@ -16,6 +16,8 @@ public class EnemyModBridgeMain : ModBehaviour {
 
 	public string enemyType;
 
+	public bool prioritySpawn;
+
 	EnemySpawnBridge mainEnemySpawn;
 
 
@@ -29,6 +31,8 @@ public class EnemyModBridgeMain : ModBehaviour {
 		mainEnemySpawn.suicideCharge = suicideCharge;
 		mainEnemySpawn.patrolPath = patrolPath;
 		mainEnemySpawn.enemyType = enemyType;
+
+		mainEnemySpawn.prioritySpawn = prioritySpawn;
 
 		mainEnemySpawn.runenemyprefabMethod ();
 
